@@ -23,8 +23,6 @@ To run the Random Password Generator, follow these steps:
 2. Compile the Java file: `javac PasswordGenerator.java`
 3. Run the program: `java PasswordGenerator`
 
-Follow the on-screen instructions to generate a random password.
-
 ### Tic Tac Toe Game
 
 The Tic Tac Toe Game is a console or command-line based implementation of the classic game. It's a two-player game that demonstrates my understanding of Java control structures and logical thinking.
@@ -37,8 +35,6 @@ To play the Tic Tac Toe Game, follow these steps:
 2. Compile the Java file: `javac TicTacToe.java`
 3. Run the program: `java TicTacToe`
 
-Follow the on-screen instructions to enjoy the game.
-
 ### Rock Paper Scissors Game
 
 The Rock Paper Scissors Game is a text-based version of the popular game. It showcases my knowledge of conditional statements and user input handling in Java.
@@ -50,8 +46,6 @@ To play the Rock Paper Scissors Game, follow these steps:
 1. Navigate to the "RockPaperScissors" directory.
 2. Compile the Java file: `javac RockPaperScissors.java`
 3. Run the program: `java RockPaperScissors`
-
-Follow the on-screen instructions to engage in this classic game.
 
 ## Feedback and Contributions
 
